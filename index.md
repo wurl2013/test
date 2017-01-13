@@ -39,9 +39,14 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rowan_Atkinson%2C_2011.jpg/440px-Rowan_Atkinson%2C_2011.jpg)
+[Link](https://en.wikipedia.org/wiki/Rowan_Atkinson) and ![Image](url)
 
 ```
+
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rowan_Atkinson%2C_2011.jpg/440px-Rowan_Atkinson%2C_2011.jpg)
+
+[Link](https://en.wikipedia.org/wiki/Rowan_Atkinson)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
